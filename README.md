@@ -31,14 +31,16 @@
 
 ## 📈 GitHub Stats
 
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay-prakash17423&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-prakash17423&layout=compact&theme=radical)
+![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jay17423&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay17423&layout=compact&theme=radical)
+
 
 ---
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jay17423)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/jay-prakash17423)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jay-prakash17423)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Jay17423)
+
 
 ---
